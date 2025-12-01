@@ -5,6 +5,7 @@
   <title>Bus Seat Booking</title>
   <style>
     body {
+      
       font-family: Arial, sans-serif;
       margin: 0;
       background-color: #f0f2f5;
